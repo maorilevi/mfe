@@ -25,8 +25,7 @@ const devConfig = {
             filename: 'remoteEntry.js',
             exposes: {
                 './DashboardApp': './src/bootstrap'
-            },
-            shared: packageJson.dependencies,
+            }
         }),
         new HtmlWebpackPlugin({
             template: './public/index.html',

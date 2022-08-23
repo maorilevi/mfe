@@ -1,7 +1,5 @@
 import('./bootstrap');
-// import { createApp } from 'vue';
-// import Dashboard from './components/Dashboard.vue';
-// import './index.css';
+// import { createApp } from 'vue'
+// import App from './App.vue'
 //
-// createApp(Dashboard)
-//     .mount('#dashboard');
+// createApp(App).mount('#app')
